@@ -2,15 +2,14 @@
  * @param {number[]} nums
  * @return {number}
  */
+
+//시간복잡도 O(n)
 const majorityElement = function(nums) {
-  const n = nums.length;
   const map = new Map();
-  
-  for (let i = 0; i < n; i++) {
+    
+  for (let i = 0; i < nums.length; i++) {
     map.set(nums[i], map.has(nums[i]) ? map.get(nums[i]) + 1 : 1);
     
-    if (map.get(nums[i]) > (n / 2)) return nums[i] // 과반수가 넘을시 반복문 종료
+    if (map.get(nums[i]) > (nums.length / 2)) return nums[i]
   }
-  
-  return -1
 };
