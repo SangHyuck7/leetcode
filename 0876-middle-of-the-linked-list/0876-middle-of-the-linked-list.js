@@ -9,15 +9,17 @@
  * @param {ListNode} head
  * @return {ListNode}
  */
-//시간복잡도 O(n)
+//시간 복잡도 O(n)
 const middleNode = function(head) {
-  let fast = head;
-  let slow = head;
-  
-  while (fast && fast.next) {
-    fast = fast.next.next;
-    slow = slow.next;
+  let obj = {};
+  let current = head;
+  let counter = 1;
+
+  while(current) {
+    obj[counter] = current;
+    counter++;
+    current = current.next;
     }
-  
-    return slow;
+
+    return obj[Math.ceil(counter/2)]
 };
