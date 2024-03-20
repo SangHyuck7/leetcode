@@ -3,24 +3,21 @@
  * @param {string} magazine
  * @return {boolean}
  */
-const canConstruct = function(ransomNote, magazine) {
-  if (magazine.length < ransomNote.length) return false;
-    
-  const count = new Array(26).fill(0);
-    
-  for (let i = 0; i < ransomNote.length; i++) {
-    count[ransomNote.charCodeAt(i) - 'a'.charCodeAt(0)]++;
-  }
 
-  for (let i = 0; i < magazine.length; i++) {
-    count[magazine.charCodeAt(i) - 'a'.charCodeAt(0)]--;
+// 반복되는 문자 찾는거 X
+// 시간 복잡도 : O(N)
+
+const canConstruct = function(ransomNote, magazine) {
+  let n = [...ransomNote.split('')];
+  let m = [...magazine.split('')];
+  let match = 0;
+  
+  for (let i = 0; i < n.length; i++) {    
+    if (m.indexOf(n[i]) !== -1) {      
+      match++;
+      m.splice(m.indexOf(n[i]), 1)      
+    }
   }
   
-  for (let i = 0; i < count.length; i++) {
-    if (1 <= count[i]) return false;
-  }
-    return true;
+  return match === n.length
 };
-
-
-
