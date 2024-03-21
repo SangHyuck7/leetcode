@@ -2,14 +2,20 @@
  * @param {number} n
  * @return {number}
  */
-//피노나치 수열
-const climbStairs = function(n) {
-  if (n <= 2) return n;
-  const steps = [0, 1, 2];
-  
-  for (let i = 3; i <= n; i++) {
-    steps[i] = steps[i - 1] + steps[i - 2];
-  }
 
-  return steps[n];
+ // 문제 이해 부족 
+ 
+const climbStairs = function(n) {
+  const values = [];
+    for (let i = 1; i <= n; i++) {
+      if (i === 1) {
+        values[i] = 1;
+      } else if (i === 2) {
+        values[i] = 2
+      } else {
+        values[i] = values[i - 1] + values[i - 2];  
+      }
+    }
+
+  return values[n]
 };
