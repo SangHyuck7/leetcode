@@ -2,18 +2,19 @@
  * @param {string} s
  * @return {number}
  */
+
+//시간복잡도: O(n)
+
 const longestPalindrome = function(s) {
-  let answer = 0;
-  const hashTable = {};
-  
-  for (const char of s) {
-    hashTable[char] = (hashTable[char] || 0) + 1;
-    
-    if (hashTable[char] % 2 === 0) {
-      answer += 2;
+    let pairs = {}
+    let count = 0;
+    for (let c of s) { 
+        if (pairs[c]) {
+            count += 2;
+            pairs[c] = false; // 불필요 키값 의미 x
+        } else {
+            pairs[c] = true; // 불필요 키값 의미 x
+        }
     }
-  }
-  const reslt = s.length > answer ? answer + 1 : answer
-  
-  return reslt;
+    return count + ((count >= s.length) ? 0 : 1);
 };
