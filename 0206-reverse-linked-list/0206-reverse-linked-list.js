@@ -10,20 +10,19 @@
  * @return {ListNode}
  */
 
+//시간복잡도: O(n)
+
 const reverseList = function(head) {
-    if (head === null) {
-        return head;
-    }
-    
-    let current = head;
-    let previous = null;
-    
-    while (current !== null) {
-        const temp = current.next;
-        current.next = previous;
-        previous = current;
-        current = temp;
-    }
-    
-    return previous;
+  let prev = null
+  let cur = head
+  let next = null;
+
+  while (cur !== null) {
+      next = cur.next;
+      cur.next = prev;
+      prev = cur;
+      cur = next;
+  }
+
+  return prev;
 };
