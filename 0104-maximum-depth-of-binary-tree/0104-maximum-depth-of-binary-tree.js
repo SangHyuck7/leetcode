@@ -10,8 +10,18 @@
  * @param {TreeNode} root
  * @return {number}
  */
-const maxDepth = function(root) {
-    if(!root) return null;
-    let max = Math.max(maxDepth(root.left), maxDepth(root.right));
-    return max + 1;
-};
+
+// DFS 기본 유형
+// 시간복잡도O(n)
+
+const maxDepth = function(root){
+
+  if(!root){
+      return 0;
+  }
+    
+  const leftNode = maxDepth(root.left);
+  const rightNode = maxDepth(root.right);
+    
+  return 1 + Math.max(leftNode,rightNode);
+}
