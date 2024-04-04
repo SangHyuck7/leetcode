@@ -1,15 +1,30 @@
-const invertTree = function(root) {
-    const reverseNode = node => {
-        if (node == null) {
-            return null
-        }
-        reverseNode(node.left);
-        reverseNode(node.right);
-        let holdLeft = node.left;
-        node.left = node.right;
-        node.right = holdLeft;
-        return node;
-    }
+/**
+ * Definition for a binary tree node.
+ * function TreeNode(val, left, right) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.left = (left===undefined ? null : left)
+ *     this.right = (right===undefined ? null : right)
+ * }
+ */
+/**
+ * @param {TreeNode} root
+ * @return {TreeNode}
+ */
+ // 사용한 자료 구조 dfs
+ // 시간 복잡도: O(n)
 
-    return reverseNode(root);
+const invertTree = function(root) {
+  if (!root) {
+    return null;
+  }
+    
+  let temp = root.left;
+
+  root.left = root.right;  
+  root.right = temp;
+    
+  invertTree(root.left);
+  invertTree(root.right);
+    
+  return root;
 };
