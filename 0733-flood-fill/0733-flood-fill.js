@@ -5,31 +5,34 @@
  * @param {number} color
  * @return {number[][]}
  */
+//DFS방식으로 접근
+//시간복잡도 O(m*n) 
 
-//깊이우선 탐색  
-const floodFill = function(image, sr, sc, newColor) {
-    const color = image[sr][sc];
-    const dfs = (image, r, c, color, newColor) => {
-        if (image[r][c] === color) {
-            image[r][c] = newColor;
-            if (r >= 1) {
-                dfs(image, r-1, c, color, newColor);
-            }
-            if (c >= 1) {
-                dfs(image, r, c-1, color, newColor);
-            }
-            if (r+1 < image.length) {
-                dfs(image, r+1, c, color, newColor);
-            }
-            if (c+1 < image[0].length) {
-                dfs(image, r, c+1, color, newColor);
-            }
-        }
+const floodFill = function(image, sr, sc, color) {
+  const targetColor = image[sr][sc];
+  
+  if (targetColor === color) return image;
+
+  const changeColor = function(sr, sc) {
+    if (sr < 0 || sc < 0 || sr >= image.length || sc >= image[0].length || image[sr][sc] !== targetColor) {        return;
     }
-    if (newColor !== color) {
-        dfs(image, sr, sc, color, newColor);
-        return image;
-    } else {
-        return image;
-    }
+    
+  image[sr][sc] = color;
+    
+  changeColor(sr, sc - 1);
+  changeColor(sr, sc + 1);
+  changeColor(sr - 1, sc);
+  changeColor(sr + 1, sc);
+  };
+  
+  changeColor(sr, sc);
+  
+  return image;
 };
+
+/*
+* 왼쪽: sr: 유지, sc: -1 
+* 오른쪽: sr: 유지, sc: +1
+* 위: sr: -1, sc: 유지
+* 아레 sr: +1, sc: 유지
+*/
