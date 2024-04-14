@@ -2,69 +2,47 @@
  * @param {number[][]} mat
  * @return {number[][]}
  */
-//BFS 이해부족
-function initializeQueueAndNewMatrix(mat){
-    let queue = []; 
-    let newMat = new Array(mat.length); 
-    
-    for (let row = 0; row < mat.length; row++){
-        // Go through matrix.
-        newMat[row] = new Array(mat[row].length);
-        
-        for (let col = 0; col < mat[row].length; col++){
-            if(mat[row][col] === 0){
 
-                queue.push([row,col]);
-                newMat[row][col] = 0;
-            } else {
-                newMat[row][col] = Number.POSITIVE_INFINITY;
-            }
-        }
+//
+
+//알고리즘 풀이 실패 (풀이 참고) 추후 다시 풀어보기
+//BFS, stack을 사용한 알고리즘 풀이법
+//시간복잡도: O(m * n) m: 행의 수 n: 열의 수
+
+const updateMatrix = function(mat) {
+  const rows = mat.length;
+  const cols = mat[0].length;
+  const dist = Array.from({ length: rows }, () => Array(cols).fill(Infinity));
+  const queue = [];
+
+  // 0인 모든 위치를 큐에 추가하고, 해당 위치의 거리를 0으로 설정
+  for (let r = 0; r < rows; r++) {
+    for (let c = 0; c < cols; c++) {
+      if (mat[r][c] === 0) {
+        queue.push([r, c]);
+        dist[r][c] = 0;
+      }
     }
-    return [queue, newMat];
-}
-/*
- * Checks if a position is inbounds of the mat array and its value is not 0.
- * @param {number} row number
- * @param {number} col number
- * @param {number[][]} mat 
- * @return {boolean} true if is a valid position, else false.
- */
-function isValidPos(row, col, mat, newMat, currDistance) {
-    return row > -1 && row < mat.length && col > -1 && col < mat[row].length && currDistance < newMat[row][col];
-}
-/**
- * Time: O(m*n): We go through the matrix array twice.
- * Space: O(m*n): The worst case space for our bfs queue.
- * @param {number[][]} mat
- * @return {number[][]}
- */
-function updateMatrix(mat) {
-    let [queue, newMat] = initializeQueueAndNewMatrix(mat);
-    
-    const travelPos = [[1,0],[0,1],[0,-1],[-1,0]];
-    let distance = 1;                
-    
-    while(queue.length !== 0){
-        const currentQueueSize = queue.length;
+  }
 
-        for(let i = 0; i < currentQueueSize; i++){
+  // 방향 벡터 (상, 하, 좌, 우)
+  const directions = [[1, 0], [-1, 0], [0, 1], [0, -1]];
+  
+  // BFS 수행
+  while (queue.length > 0) {
+    const [r, c] = queue.shift();
 
-            let [currRow, currCol] = queue.shift();
+    for (let [dr, dc] of directions) {
+      const nr = r + dr;
+      const nc = c + dc;
 
-            for(let [moveRow, moveCol] of travelPos){
-
-                moveRow = currRow + moveRow; 
-                moveCol = currCol + moveCol;  
-
-                if(isValidPos(moveRow, moveCol, mat, newMat, distance)){
-
-                    newMat[moveRow][moveCol] = distance;
-                    queue.push([moveRow,moveCol]);
-                }
-            }
-        }
-        distance++;   
+      // 경계 확인 및 거리 업데이트
+      if (nr >= 0 && nr < rows && nc >= 0 && nc < cols && dist[nr][nc] === Infinity) {
+        dist[nr][nc] = dist[r][c] + 1;
+        queue.push([nr, nc]);
+      }
     }
-    return newMat;
-}
+  }
+
+  return dist;
+};
