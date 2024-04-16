@@ -2,22 +2,27 @@
  * @param {string} s
  * @return {number}
  */
+
+//해설 참고 풀이 실패 정확한 이해 필요
+//슬라이딩 윈도우 방법론
+//시간 복잡도: O(n)
+
 const lengthOfLongestSubstring = function(s) {
-    let charMap = {};
-    let start = 0;
-    let longest = 0;
+  const map = new Map();
+  let left = 0;
+  let maxLength = 0;
 
-    for (let i = 0; i < s.length; i++) {
-        let currentChar = s[i];
+  for (let right = 0; right < s.length; right++) {
+    const currentChar = s[right];
 
-        if (charMap[currentChar] !== undefined && charMap[currentChar] >= start) {
-            start = charMap[currentChar] + 1;
-        } else {
-            longest = Math.max(longest, i - start + 1);
-        }
-
-        charMap[currentChar] = i;
+    if (map.has(currentChar)) {
+      left = Math.max(left, map.get(currentChar) + 1);
     }
 
-    return longest;
+    map.set(currentChar, right);
+
+    maxLength = Math.max(maxLength, right - left + 1);
+  }
+
+  return maxLength;
 };
