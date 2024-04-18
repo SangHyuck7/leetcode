@@ -10,20 +10,33 @@
  * @param {TreeNode} root
  * @return {number[][]}
  */
-
-//시간복잡도 :O(n)
+// 자료구조 큐와 bfs 를 사용
+// 시간복잡도: O(n) bfs를 사용해 모든 노드 한번씩만 방문
 const levelOrder = function(root) {
-  const results = [];
+  if (!root) return [];
+  
+  const result = [];
+  const queue = [root];
+  
+  while (queue.length > 0) {
+    const levelSize = queue.length;
+    const currentLevel = [];
     
-  if (!root) return results;
+    for (let i = 0; i < levelSize; i++) {
+      const node = queue.shift();
+      currentLevel.push(node.val);
+      
+      if (node.left) {
+        queue.push(node.left);
+      }
+      
+      if (node.right) {
+        queue.push(node.right);
+      }
+    }
     
-  const dfs = (node, level) => {
-      results[level] = [...(results[level] || []), node.val];
-      if (node.left) dfs(node.left, level + 1);
-      if (node.right) dfs(node.right, level + 1);
+    result.push(currentLevel);
   }
-    
-  dfs(root, 0);
-    
-  return results;
+  
+  return result;
 };
