@@ -12,7 +12,8 @@
  * @return {boolean}
  */
 
-
+//DFS 사용 
+//시간복잡도: O(n) 
 const hasPathSum = function(root, targetSum) {
   if (root === null) {
     return false;
