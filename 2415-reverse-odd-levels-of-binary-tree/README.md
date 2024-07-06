@@ -1,5 +1,5 @@
 <h2><a href="https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/">2415. Reverse Odd Levels of Binary Tree</a></h2><h3>Commentary notes</h3><hr>
-![Reverse Odd Levels of Binary Tree](https://github.com/SangHyuk7/leetcode/assets/107290583/e89ac53a-513a-4c4c-a14e-ddc910607892)
+<img width = 800 src="https://github.com/SangHyuk7/leetcode/assets/107290583/e89ac53a-513a-4c4c-a14e-ddc910607892" alt="Reverse Odd Levels of Binary Tree">
 <h3>Medium</h3><hr><div><p>Given the <code>root</code> of a <strong>perfect</strong> binary tree, reverse the node values at each <strong>odd</strong> level of the tree.</p>
 
 <ul>
