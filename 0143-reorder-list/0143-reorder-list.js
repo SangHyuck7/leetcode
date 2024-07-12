@@ -9,11 +9,12 @@
  * @param {ListNode} head
  * @return {void} Do not return anything, modify head in-place instead.
  */
- //첫 번째 노드(L0)와 마지막 노드(Ln), 두 번째 노드(L1)와 마지막에서 두 번째 노드(Ln-1) 순으로 노드 정렬 문제
-const reorderList = function(head) {
+//첫 번째 노드(L0)와 마지막 노드(Ln), 두 번째 노드(L1)와 마지막에서 두 번째 노드(Ln-1) 순으로 노드 정렬 문제
+//풀이노트 작성
+//시간복잡도: O(n)
+const reorderList = function (head) {
   if (!head) return;
 
-  
   let slow = head;
   let fast = head;
   //투포인터 중간지점 찾기
@@ -39,7 +40,7 @@ const reorderList = function(head) {
   while (second.next !== null) {
     let temp1 = first.next;
     let temp2 = second.next;
-    
+
     first.next = second;
     second.next = temp1;
     first = temp1;

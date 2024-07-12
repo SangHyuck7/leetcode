@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/reorder-list">143. Reorder List</a></h2><h3>Medium</h3><hr><p>You are given the head of a singly linked-list. The list can be represented as:</p>
+<h2><a href="https://leetcode.com/problems/reorder-list">143. Reorder List</a></h2><img width = 800 src="https://github.com/user-attachments/assets/325136b6-07cf-474c-87ad-95adc5e32672" alt=" Reorder List"><h3>Medium</h3><hr><p>You are given the head of a singly linked-list. The list can be represented as:</p>
 
 <pre>
 L<sub>0</sub> &rarr; L<sub>1</sub> &rarr; &hellip; &rarr; L<sub>n - 1</sub> &rarr; L<sub>n</sub>
