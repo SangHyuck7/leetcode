@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/SangHyuk7/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/SangHyuk7/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SangHyuk7/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SangHyuk7/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SangHyuk7/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/SangHyuk7/leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/SangHyuk7/leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
