@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/SangHyuk7/leetcode/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/SangHyuk7/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/SangHyuk7/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SangHyuk7/leetcode/tree/master/0088-merge-sorted-array) |
@@ -18,6 +19,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/SangHyuk7/leetcode/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/SangHyuk7/leetcode/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
 |  |
@@ -72,6 +74,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/SangHyuk7/leetcode/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SangHyuk7/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/SangHyuk7/leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Divide and Conquer
