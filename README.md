@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/SangHyuk7/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/SangHyuk7/leetcode/tree/master/0258-add-digits) |
 ## Tree
 |  |
 | ------- |
@@ -89,8 +90,13 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/SangHyuk7/leetcode/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/SangHyuk7/leetcode/tree/master/0258-add-digits) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SangHyuk7/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SangHyuk7/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
