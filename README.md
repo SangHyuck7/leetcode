@@ -91,6 +91,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/SangHyuk7/leetcode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/SangHyuk7/leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/SangHyuk7/leetcode/tree/master/0263-ugly-number) |
 ## String Matching
 |  |
 | ------- |
