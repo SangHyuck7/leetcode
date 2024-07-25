@@ -88,12 +88,14 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/SangHyuk7/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0279-perfect-squares](https://github.com/SangHyuk7/leetcode/tree/master/0279-perfect-squares) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/SangHyuk7/leetcode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/SangHyuk7/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/SangHyuk7/leetcode/tree/master/0263-ugly-number) |
+| [0279-perfect-squares](https://github.com/SangHyuk7/leetcode/tree/master/0279-perfect-squares) |
 ## String Matching
 |  |
 | ------- |
@@ -102,4 +104,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SangHyuk7/leetcode/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/SangHyuk7/leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
