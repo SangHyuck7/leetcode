@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/SangHyuk7/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SangHyuk7/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SangHyuk7/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0406-queue-reconstruction-by-height](https://github.com/SangHyuk7/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0413-arithmetic-slices](https://github.com/SangHyuk7/leetcode/tree/master/0413-arithmetic-slices) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SangHyuk7/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## String
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SangHyuk7/leetcode/tree/master/0088-merge-sorted-array) |
+| [0406-queue-reconstruction-by-height](https://github.com/SangHyuk7/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,4 +121,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SangHyuk7/leetcode/tree/master/0292-nim-game) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/SangHyuk7/leetcode/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/SangHyuk7/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
