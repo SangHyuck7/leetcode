@@ -13,6 +13,7 @@
 | [0406-queue-reconstruction-by-height](https://github.com/SangHyuk7/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0413-arithmetic-slices](https://github.com/SangHyuk7/leetcode/tree/master/0413-arithmetic-slices) |
 | [0463-island-perimeter](https://github.com/SangHyuk7/leetcode/tree/master/0463-island-perimeter) |
+| [0861-flipping-an-image](https://github.com/SangHyuk7/leetcode/tree/master/0861-flipping-an-image) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SangHyuk7/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## String
 |  |
@@ -26,11 +27,13 @@
 | [0036-valid-sudoku](https://github.com/SangHyuk7/leetcode/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/SangHyuk7/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0463-island-perimeter](https://github.com/SangHyuk7/leetcode/tree/master/0463-island-perimeter) |
+| [0861-flipping-an-image](https://github.com/SangHyuk7/leetcode/tree/master/0861-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/SangHyuk7/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/SangHyuk7/leetcode/tree/master/0258-add-digits) |
+| [0861-flipping-an-image](https://github.com/SangHyuk7/leetcode/tree/master/0861-flipping-an-image) |
 ## Tree
 |  |
 | ------- |
@@ -65,6 +68,7 @@
 | [0088-merge-sorted-array](https://github.com/SangHyuk7/leetcode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/SangHyuk7/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/SangHyuk7/leetcode/tree/master/0143-reorder-list) |
+| [0861-flipping-an-image](https://github.com/SangHyuk7/leetcode/tree/master/0861-flipping-an-image) |
 ## Stack
 |  |
 | ------- |
@@ -133,4 +137,8 @@
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/SangHyuk7/leetcode/tree/master/0406-queue-reconstruction-by-height) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/SangHyuk7/leetcode/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
