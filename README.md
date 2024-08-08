@@ -14,6 +14,7 @@
 | [0413-arithmetic-slices](https://github.com/SangHyuk7/leetcode/tree/master/0413-arithmetic-slices) |
 | [0463-island-perimeter](https://github.com/SangHyuk7/leetcode/tree/master/0463-island-perimeter) |
 | [0861-flipping-an-image](https://github.com/SangHyuk7/leetcode/tree/master/0861-flipping-an-image) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/SangHyuk7/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SangHyuk7/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## String
 |  |
@@ -90,6 +91,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SangHyuk7/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/SangHyuk7/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0290-word-pattern](https://github.com/SangHyuk7/leetcode/tree/master/0290-word-pattern) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/SangHyuk7/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
