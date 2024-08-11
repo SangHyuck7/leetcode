@@ -23,6 +23,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SangHyuk7/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0290-word-pattern](https://github.com/SangHyuk7/leetcode/tree/master/0290-word-pattern) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SangHyuk7/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/SangHyuk7/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2401-count-asterisks](https://github.com/SangHyuk7/leetcode/tree/master/2401-count-asterisks) |
 ## Matrix
 |  |
@@ -114,6 +115,7 @@
 | [0263-ugly-number](https://github.com/SangHyuk7/leetcode/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/SangHyuk7/leetcode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/SangHyuk7/leetcode/tree/master/0292-nim-game) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/SangHyuk7/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## String Matching
 |  |
 | ------- |
