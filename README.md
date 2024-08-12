@@ -17,6 +17,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/SangHyuk7/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/SangHyuk7/leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SangHyuk7/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [3221-find-the-peaks](https://github.com/SangHyuk7/leetcode/tree/master/3221-find-the-peaks) |
 ## String
 |  |
 | ------- |
@@ -153,4 +154,8 @@
 |  |
 | ------- |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/SangHyuk7/leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/SangHyuk7/leetcode/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
