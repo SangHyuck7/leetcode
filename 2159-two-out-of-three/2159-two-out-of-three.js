@@ -14,7 +14,7 @@ const twoOutOfThree = function(nums1, nums2, nums3) {
 
     for (let num of nums) {
       if (!seen.has(num)) {
-       frequency[num] = (frequency[num] || 0) + 1;
+        frequency[num] = (frequency[num] || 0) + 1;
         seen.add(num);
       }
     }
