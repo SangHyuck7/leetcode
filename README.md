@@ -17,6 +17,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/SangHyuk7/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/SangHyuk7/leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SangHyuk7/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2159-two-out-of-three](https://github.com/SangHyuk7/leetcode/tree/master/2159-two-out-of-three) |
 | [3221-find-the-peaks](https://github.com/SangHyuk7/leetcode/tree/master/3221-find-the-peaks) |
 ## String
 |  |
@@ -98,6 +99,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/SangHyuk7/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0290-word-pattern](https://github.com/SangHyuk7/leetcode/tree/master/0290-word-pattern) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SangHyuk7/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [2159-two-out-of-three](https://github.com/SangHyuk7/leetcode/tree/master/2159-two-out-of-three) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -150,6 +152,7 @@
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/SangHyuk7/leetcode/tree/master/0861-flipping-an-image) |
+| [2159-two-out-of-three](https://github.com/SangHyuk7/leetcode/tree/master/2159-two-out-of-three) |
 ## Greedy
 |  |
 | ------- |
