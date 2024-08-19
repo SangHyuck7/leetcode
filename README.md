@@ -43,6 +43,7 @@
 | [0059-spiral-matrix-ii](https://github.com/SangHyuk7/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/SangHyuk7/leetcode/tree/master/0258-add-digits) |
 | [0861-flipping-an-image](https://github.com/SangHyuk7/leetcode/tree/master/0861-flipping-an-image) |
+| [1642-water-bottles](https://github.com/SangHyuk7/leetcode/tree/master/1642-water-bottles) |
 ## Tree
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [0279-perfect-squares](https://github.com/SangHyuk7/leetcode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/SangHyuk7/leetcode/tree/master/0292-nim-game) |
 | [1013-fibonacci-number](https://github.com/SangHyuk7/leetcode/tree/master/1013-fibonacci-number) |
+| [1642-water-bottles](https://github.com/SangHyuk7/leetcode/tree/master/1642-water-bottles) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/SangHyuk7/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## String Matching
 |  |
