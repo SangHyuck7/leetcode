@@ -13,6 +13,7 @@
 | [0406-queue-reconstruction-by-height](https://github.com/SangHyuk7/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0413-arithmetic-slices](https://github.com/SangHyuk7/leetcode/tree/master/0413-arithmetic-slices) |
 | [0463-island-perimeter](https://github.com/SangHyuk7/leetcode/tree/master/0463-island-perimeter) |
+| [0506-relative-ranks](https://github.com/SangHyuk7/leetcode/tree/master/0506-relative-ranks) |
 | [0861-flipping-an-image](https://github.com/SangHyuk7/leetcode/tree/master/0861-flipping-an-image) |
 | [0958-sort-array-by-parity-ii](https://github.com/SangHyuk7/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SangHyuk7/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -95,6 +96,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SangHyuk7/leetcode/tree/master/0088-merge-sorted-array) |
 | [0406-queue-reconstruction-by-height](https://github.com/SangHyuk7/leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [0506-relative-ranks](https://github.com/SangHyuk7/leetcode/tree/master/0506-relative-ranks) |
 | [0958-sort-array-by-parity-ii](https://github.com/SangHyuk7/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1829-maximum-units-on-a-truck](https://github.com/SangHyuk7/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/SangHyuk7/leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
@@ -176,4 +178,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/SangHyuk7/leetcode/tree/master/1013-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/SangHyuk7/leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
