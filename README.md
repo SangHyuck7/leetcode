@@ -22,6 +22,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SangHyuk7/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2159-two-out-of-three](https://github.com/SangHyuk7/leetcode/tree/master/2159-two-out-of-three) |
 | [3221-find-the-peaks](https://github.com/SangHyuk7/leetcode/tree/master/3221-find-the-peaks) |
+| [3463-alternating-groups-i](https://github.com/SangHyuk7/leetcode/tree/master/3463-alternating-groups-i) |
 ## String
 |  |
 | ------- |
@@ -182,4 +183,8 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/SangHyuk7/leetcode/tree/master/0506-relative-ranks) |
+## Sliding Window
+|  |
+| ------- |
+| [3463-alternating-groups-i](https://github.com/SangHyuk7/leetcode/tree/master/3463-alternating-groups-i) |
 <!---LeetCode Topics End-->
