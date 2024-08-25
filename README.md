@@ -18,6 +18,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/SangHyuk7/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1386-shift-2d-grid](https://github.com/SangHyuk7/leetcode/tree/master/1386-shift-2d-grid) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SangHyuk7/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/SangHyuk7/leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1829-maximum-units-on-a-truck](https://github.com/SangHyuk7/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/SangHyuk7/leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SangHyuk7/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -40,6 +41,7 @@
 | [0463-island-perimeter](https://github.com/SangHyuk7/leetcode/tree/master/0463-island-perimeter) |
 | [0861-flipping-an-image](https://github.com/SangHyuk7/leetcode/tree/master/0861-flipping-an-image) |
 | [1386-shift-2d-grid](https://github.com/SangHyuk7/leetcode/tree/master/1386-shift-2d-grid) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/SangHyuk7/leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/SangHyuk7/leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 ## Simulation
 |  |
