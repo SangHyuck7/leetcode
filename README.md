@@ -30,6 +30,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SangHyuk7/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0290-word-pattern](https://github.com/SangHyuk7/leetcode/tree/master/0290-word-pattern) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/SangHyuk7/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SangHyuk7/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/SangHyuk7/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2401-count-asterisks](https://github.com/SangHyuk7/leetcode/tree/master/2401-count-asterisks) |
@@ -114,6 +115,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/SangHyuk7/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0290-word-pattern](https://github.com/SangHyuk7/leetcode/tree/master/0290-word-pattern) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SangHyuk7/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/SangHyuk7/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2159-two-out-of-three](https://github.com/SangHyuk7/leetcode/tree/master/2159-two-out-of-three) |
 ## Divide and Conquer
 |  |
