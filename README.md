@@ -89,6 +89,7 @@
 | [0143-reorder-list](https://github.com/SangHyuk7/leetcode/tree/master/0143-reorder-list) |
 | [0861-flipping-an-image](https://github.com/SangHyuk7/leetcode/tree/master/0861-flipping-an-image) |
 | [0958-sort-array-by-parity-ii](https://github.com/SangHyuk7/leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [2481-strictly-palindromic-number](https://github.com/SangHyuk7/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Stack
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [1013-fibonacci-number](https://github.com/SangHyuk7/leetcode/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/SangHyuk7/leetcode/tree/master/1642-water-bottles) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/SangHyuk7/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2481-strictly-palindromic-number](https://github.com/SangHyuk7/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## String Matching
 |  |
 | ------- |
@@ -158,6 +160,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SangHyuk7/leetcode/tree/master/0292-nim-game) |
+| [2481-strictly-palindromic-number](https://github.com/SangHyuk7/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
