@@ -30,6 +30,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SangHyuk7/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0290-word-pattern](https://github.com/SangHyuk7/leetcode/tree/master/0290-word-pattern) |
+| [0535-encode-and-decode-tinyurl](https://github.com/SangHyuk7/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1666-make-the-string-great](https://github.com/SangHyuk7/leetcode/tree/master/1666-make-the-string-great) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/SangHyuk7/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SangHyuk7/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -118,6 +119,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SangHyuk7/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/SangHyuk7/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0290-word-pattern](https://github.com/SangHyuk7/leetcode/tree/master/0290-word-pattern) |
+| [0535-encode-and-decode-tinyurl](https://github.com/SangHyuk7/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SangHyuk7/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/SangHyuk7/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2159-two-out-of-three](https://github.com/SangHyuk7/leetcode/tree/master/2159-two-out-of-three) |
@@ -200,4 +202,12 @@
 |  |
 | ------- |
 | [3463-alternating-groups-i](https://github.com/SangHyuk7/leetcode/tree/master/3463-alternating-groups-i) |
+## Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/SangHyuk7/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/SangHyuk7/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
