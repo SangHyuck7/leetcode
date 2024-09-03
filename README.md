@@ -37,6 +37,7 @@
 | [1920-determine-color-of-a-chessboard-square](https://github.com/SangHyuk7/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2401-count-asterisks](https://github.com/SangHyuk7/leetcode/tree/master/2401-count-asterisks) |
 | [3379-score-of-a-string](https://github.com/SangHyuk7/leetcode/tree/master/3379-score-of-a-string) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/SangHyuk7/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Matrix
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/SangHyuk7/leetcode/tree/master/0143-reorder-list) |
 | [1013-fibonacci-number](https://github.com/SangHyuk7/leetcode/tree/master/1013-fibonacci-number) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/SangHyuk7/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Sorting
 |  |
 | ------- |
@@ -181,6 +183,7 @@
 | ------- |
 | [0861-flipping-an-image](https://github.com/SangHyuk7/leetcode/tree/master/0861-flipping-an-image) |
 | [2159-two-out-of-three](https://github.com/SangHyuk7/leetcode/tree/master/2159-two-out-of-three) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/SangHyuk7/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
 |  |
 | ------- |
