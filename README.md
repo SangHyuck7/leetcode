@@ -19,6 +19,7 @@
 | [1386-shift-2d-grid](https://github.com/SangHyuk7/leetcode/tree/master/1386-shift-2d-grid) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SangHyuk7/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/SangHyuk7/leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SangHyuk7/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1829-maximum-units-on-a-truck](https://github.com/SangHyuk7/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/SangHyuk7/leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SangHyuk7/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -33,6 +34,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/SangHyuk7/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1666-make-the-string-great](https://github.com/SangHyuk7/leetcode/tree/master/1666-make-the-string-great) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/SangHyuk7/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SangHyuk7/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SangHyuk7/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/SangHyuk7/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2401-count-asterisks](https://github.com/SangHyuk7/leetcode/tree/master/2401-count-asterisks) |
@@ -125,6 +127,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/SangHyuk7/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SangHyuk7/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/SangHyuk7/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SangHyuk7/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2159-two-out-of-three](https://github.com/SangHyuk7/leetcode/tree/master/2159-two-out-of-three) |
 ## Divide and Conquer
 |  |
@@ -183,6 +186,7 @@
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/SangHyuk7/leetcode/tree/master/0861-flipping-an-image) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SangHyuk7/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2159-two-out-of-three](https://github.com/SangHyuk7/leetcode/tree/master/2159-two-out-of-three) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/SangHyuk7/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/SangHyuk7/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -215,4 +219,8 @@
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/SangHyuk7/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+## Counting
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SangHyuk7/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
