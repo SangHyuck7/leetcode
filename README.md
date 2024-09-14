@@ -24,6 +24,7 @@
 | [1845-largest-submatrix-with-rearrangements](https://github.com/SangHyuk7/leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SangHyuk7/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2159-two-out-of-three](https://github.com/SangHyuk7/leetcode/tree/master/2159-two-out-of-three) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/SangHyuk7/leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [3221-find-the-peaks](https://github.com/SangHyuk7/leetcode/tree/master/3221-find-the-peaks) |
 | [3463-alternating-groups-i](https://github.com/SangHyuk7/leetcode/tree/master/3463-alternating-groups-i) |
 ## String
@@ -50,6 +51,7 @@
 | [1386-shift-2d-grid](https://github.com/SangHyuk7/leetcode/tree/master/1386-shift-2d-grid) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/SangHyuk7/leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/SangHyuk7/leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/SangHyuk7/leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
