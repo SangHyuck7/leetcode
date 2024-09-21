@@ -155,6 +155,7 @@
 | [1642-water-bottles](https://github.com/SangHyuk7/leetcode/tree/master/1642-water-bottles) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/SangHyuk7/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2481-strictly-palindromic-number](https://github.com/SangHyuk7/leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2812-find-the-maximum-achievable-number](https://github.com/SangHyuk7/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 ## String Matching
 |  |
 | ------- |
