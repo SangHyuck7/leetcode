@@ -74,6 +74,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SangHyuk7/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SangHyuk7/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/SangHyuk7/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0386-lexicographical-numbers](https://github.com/SangHyuk7/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/SangHyuk7/leetcode/tree/master/0463-island-perimeter) |
 ## Binary Tree
 |  |
@@ -228,4 +229,8 @@
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SangHyuk7/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/SangHyuk7/leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
