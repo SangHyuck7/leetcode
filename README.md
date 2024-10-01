@@ -35,6 +35,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SangHyuk7/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0290-word-pattern](https://github.com/SangHyuk7/leetcode/tree/master/0290-word-pattern) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SangHyuk7/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [1205-defanging-an-ip-address](https://github.com/SangHyuk7/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1547-destination-city](https://github.com/SangHyuk7/leetcode/tree/master/1547-destination-city) |
 | [1666-make-the-string-great](https://github.com/SangHyuk7/leetcode/tree/master/1666-make-the-string-great) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/SangHyuk7/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
