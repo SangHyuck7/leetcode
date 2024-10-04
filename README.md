@@ -27,6 +27,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SangHyuk7/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2159-two-out-of-three](https://github.com/SangHyuk7/leetcode/tree/master/2159-two-out-of-three) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/SangHyuk7/leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/SangHyuk7/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3221-find-the-peaks](https://github.com/SangHyuk7/leetcode/tree/master/3221-find-the-peaks) |
 | [3463-alternating-groups-i](https://github.com/SangHyuk7/leetcode/tree/master/3463-alternating-groups-i) |
 ## String
@@ -103,6 +104,7 @@
 | [0861-flipping-an-image](https://github.com/SangHyuk7/leetcode/tree/master/0861-flipping-an-image) |
 | [0958-sort-array-by-parity-ii](https://github.com/SangHyuk7/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [2481-strictly-palindromic-number](https://github.com/SangHyuk7/leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/SangHyuk7/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Stack
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SangHyuk7/leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1829-maximum-units-on-a-truck](https://github.com/SangHyuk7/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/SangHyuk7/leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/SangHyuk7/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,6 +141,7 @@
 | [1746-largest-substring-between-two-equal-characters](https://github.com/SangHyuk7/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SangHyuk7/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2159-two-out-of-three](https://github.com/SangHyuk7/leetcode/tree/master/2159-two-out-of-three) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/SangHyuk7/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
 |  |
 | ------- |
