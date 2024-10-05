@@ -36,6 +36,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SangHyuk7/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0290-word-pattern](https://github.com/SangHyuk7/leetcode/tree/master/0290-word-pattern) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SangHyuk7/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0567-permutation-in-string](https://github.com/SangHyuk7/leetcode/tree/master/0567-permutation-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/SangHyuk7/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1547-destination-city](https://github.com/SangHyuk7/leetcode/tree/master/1547-destination-city) |
 | [1666-make-the-string-great](https://github.com/SangHyuk7/leetcode/tree/master/1666-make-the-string-great) |
@@ -101,6 +102,7 @@
 | [0088-merge-sorted-array](https://github.com/SangHyuk7/leetcode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/SangHyuk7/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/SangHyuk7/leetcode/tree/master/0143-reorder-list) |
+| [0567-permutation-in-string](https://github.com/SangHyuk7/leetcode/tree/master/0567-permutation-in-string) |
 | [0861-flipping-an-image](https://github.com/SangHyuk7/leetcode/tree/master/0861-flipping-an-image) |
 | [0958-sort-array-by-parity-ii](https://github.com/SangHyuk7/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [2481-strictly-palindromic-number](https://github.com/SangHyuk7/leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -136,6 +138,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/SangHyuk7/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0290-word-pattern](https://github.com/SangHyuk7/leetcode/tree/master/0290-word-pattern) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SangHyuk7/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0567-permutation-in-string](https://github.com/SangHyuk7/leetcode/tree/master/0567-permutation-in-string) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SangHyuk7/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1547-destination-city](https://github.com/SangHyuk7/leetcode/tree/master/1547-destination-city) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/SangHyuk7/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -224,6 +227,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/SangHyuk7/leetcode/tree/master/0567-permutation-in-string) |
 | [3463-alternating-groups-i](https://github.com/SangHyuk7/leetcode/tree/master/3463-alternating-groups-i) |
 ## Design
 |  |
