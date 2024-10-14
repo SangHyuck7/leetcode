@@ -25,6 +25,7 @@
 | [1829-maximum-units-on-a-truck](https://github.com/SangHyuk7/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/SangHyuk7/leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SangHyuk7/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1923-sentence-similarity-iii](https://github.com/SangHyuk7/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2159-two-out-of-three](https://github.com/SangHyuk7/leetcode/tree/master/2159-two-out-of-three) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/SangHyuk7/leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SangHyuk7/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -44,6 +45,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/SangHyuk7/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SangHyuk7/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/SangHyuk7/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1923-sentence-similarity-iii](https://github.com/SangHyuk7/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2401-count-asterisks](https://github.com/SangHyuk7/leetcode/tree/master/2401-count-asterisks) |
 | [3379-score-of-a-string](https://github.com/SangHyuk7/leetcode/tree/master/3379-score-of-a-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/SangHyuk7/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -105,6 +107,7 @@
 | [0567-permutation-in-string](https://github.com/SangHyuk7/leetcode/tree/master/0567-permutation-in-string) |
 | [0861-flipping-an-image](https://github.com/SangHyuk7/leetcode/tree/master/0861-flipping-an-image) |
 | [0958-sort-array-by-parity-ii](https://github.com/SangHyuk7/leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1923-sentence-similarity-iii](https://github.com/SangHyuk7/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2481-strictly-palindromic-number](https://github.com/SangHyuk7/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SangHyuk7/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Stack
